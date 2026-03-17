@@ -1,0 +1,7 @@
+# .gitignore
+*.json
+__pycache__/
+.vscode/
+Good_Runes/
+*.png
+*.jpg
